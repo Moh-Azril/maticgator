@@ -3,7 +3,7 @@
 #include <LiquidCrystal_I2C.h>
 
 #define NUMITEMS(arg) ((unsigned int) (sizeof (arg) / sizeof (arg [0])))
--
+
 // SENSOR
 #define DHTpin A0
 #define DHTtype DHT11
